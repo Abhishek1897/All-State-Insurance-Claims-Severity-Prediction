@@ -90,6 +90,3 @@ This project was developed as part of a machine learning case study on regressio
 
 ---
 
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
